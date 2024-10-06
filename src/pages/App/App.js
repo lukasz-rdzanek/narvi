@@ -1,9 +1,11 @@
 import "./App.css";
 
+import SearchForm from "../../components/SearchForm/SearchForm";
+
 function App() {
   return (
     <div className="App">
-      <header className="App-header"></header>
+      <SearchForm />
     </div>
   );
 }
