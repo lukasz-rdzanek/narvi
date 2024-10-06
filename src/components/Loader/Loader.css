@@ -1,0 +1,8 @@
+@import "../../index.css";
+
+.loader {
+  color: var(--white) !important;
+  display: block;
+  margin: 1rem auto;
+  width: 100%;
+}
