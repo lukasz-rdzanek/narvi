@@ -1,11 +1,9 @@
-import "./App.css";
-
-import SearchForm from "../../components/SearchForm/SearchForm";
+import SearchPage from "../SearchPage/SearchPage";
 
 function App() {
   return (
     <div className="App">
-      <SearchForm />
+      <SearchPage />
     </div>
   );
 }
