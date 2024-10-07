@@ -5,6 +5,7 @@ import { TextField } from "@mui/material";
 export const Input = ({ label, register }) => {
   return (
     <TextField
+      id="input"
       autoComplete="off"
       className="input"
       data-testid="input"

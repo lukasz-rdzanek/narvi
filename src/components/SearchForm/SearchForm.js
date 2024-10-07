@@ -15,7 +15,7 @@ import { Input } from "../Input/Input";
 import { Loader } from "../Loader/Loader";
 import { Tile } from "../Tile/Tile";
 
-const SearchForm = () => {
+export const SearchForm = () => {
   const { register, watch } = useForm();
   const [username, setUsername] = useState("");
 
@@ -74,5 +74,3 @@ const SearchForm = () => {
     </Box>
   );
 };
-
-export default SearchForm;
