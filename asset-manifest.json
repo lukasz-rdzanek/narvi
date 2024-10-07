@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/narvi/static/css/main.e446dd1d.css",
+    "main.js": "/narvi/static/js/main.7bfe504a.js",
+    "static/js/453.2359aa40.chunk.js": "/narvi/static/js/453.2359aa40.chunk.js",
+    "index.html": "/narvi/index.html",
+    "main.e446dd1d.css.map": "/narvi/static/css/main.e446dd1d.css.map",
+    "main.7bfe504a.js.map": "/narvi/static/js/main.7bfe504a.js.map",
+    "453.2359aa40.chunk.js.map": "/narvi/static/js/453.2359aa40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e446dd1d.css",
+    "static/js/main.7bfe504a.js"
+  ]
+}
